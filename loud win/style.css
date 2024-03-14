@@ -1,4 +1,12 @@
-body{
+.cabecalho{
     background-color: navy;
     color: azure;
+    display: flex;
+    justify-content:  space-around;
+}
+.cabecalho-img{
+    width: 20%;
+}
+.cabecalho-lista-item{
+display: inline-block;
 }
